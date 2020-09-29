@@ -6,7 +6,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é João Vitor, 19, Desenvolvedor front-end apaixonado por esse incrível mundo da programação.
+Meu nome é João Vitor, Tenho 19 anos, Sou desenvolvedor front-end apaixonado por esse incrível mundo da programação.
 
 - :blue_heart: **Techs**:  React.js, React Native, Node.js, TypeScript, Graphql, entre outras.
 - :books: **Estudando** Kotlin. :heart:

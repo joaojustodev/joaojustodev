@@ -9,7 +9,7 @@
 Meu nome é João Vitor, Tenho 19 anos, Sou desenvolvedor front-end apaixonado por esse incrível mundo da programação.
 
 - :blue_heart: **Techs**:  React.js, React Native, Node.js, TypeScript, Graphql, entre outras.
-- :books: **Estudando** Java, Kotlin, VueJS e SOLID. :heart:
+- :books: **Estudando** Java, Kotlin, VueJS, AWS, e SOLID. :heart:
 - :octocat: [www..joaobr200.life](https://www.joaobr200.life)
 
 ---

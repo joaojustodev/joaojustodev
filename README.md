@@ -8,7 +8,7 @@
 
 Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado por esse incrível mundo da programação.
 
-- :blue_heart: **Techs**:  React.js, React Native, Node.js, TypeScript!
+- :blue_heart: **Techs**:  Javascript, TypeScript, React.js, React Native, Node.js
 - :octocat: [joaojustodev.github.io](https://joaojustodev.github.io)
 
 ---
@@ -20,7 +20,7 @@ Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado p
  
       
    <p>
-    <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaobr200&layout=compact'>
+    <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaojustodev&layout=compact'>
   </p>
       
      

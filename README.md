@@ -8,7 +8,8 @@
 
 Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado por esse incrível mundo da programação.
 
-- :blue_heart: **Techs**:  
+- :blue_heart: **Techs**: 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="50" width="62" alt="nextjs logo"  />
@@ -21,6 +22,7 @@ Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="50" width="62" alt="eslint logo"  />
 </div>
+
 - :octocat: [joaojustodev.github.io](https://joaojustodev.github.io)
 
 ---

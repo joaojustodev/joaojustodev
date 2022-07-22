@@ -6,7 +6,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-***My name is João Vitor, I'm 21 years old, Front-end developer passionate about this incredible world of programming***
+***My name is João Vitor, I'm 21 years old, Front-end developer passionate about this incredible world of programming.***
 
 - :blue_heart: **Techs**: 
 

@@ -6,7 +6,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado por esse incrível mundo da programação.
+***My name is João Vitor, I'm 21 years old, Front-end developer passionate about this incredible world of programming***
 
 - :blue_heart: **Techs**: 
 
@@ -27,7 +27,7 @@ Meu nome é João Vitor, Tenho 21 anos, Sou desenvolvedor front-end apaixonado p
 ---
 
 <details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  <summary> <b> Want to know more about me ? </b> <i>(Click to expand)</i> </summary>
   <br>
   
  
